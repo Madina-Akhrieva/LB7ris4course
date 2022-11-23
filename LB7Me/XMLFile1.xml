@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<deposits>
+  <deposit number="1">
+    <company>Innowise Group</company>
+    <amount>17800</amount>
+    <currancy>BYN</currancy>
+    <remains>300000</remains>
+    <interestAccruals>10000</interestAccruals>
+    <percent>17%</percent>
+  </deposit>
+  <deposit number="2">
+    <company>ITechart</company>
+    <amount>17800</amount>
+    <currancy>BYN</currancy>
+    <remains>13500</remains>
+    <interestAccruals>1000</interestAccruals>
+    <percent>17%</percent>
+  </deposit>
+  <deposit number="3">
+    <company>EPAM Systems</company>
+    <amount>174800</amount>
+    <currancy>BYN</currancy>
+    <remains>155000</remains>
+    <interestAccruals>10000</interestAccruals>
+    <percent>17%</percent>
+  </deposit>
+  <deposit number="4">
+    <company>IBM</company>
+    <amount>1785900</amount>
+    <currancy>BYN</currancy>
+    <remains>15000</remains>
+    <interestAccruals>10000</interestAccruals>
+    <percent>17%</percent>
+  </deposit>
+  <deposit number="5">
+    <company>SoftTECHO</company>
+    <amount>178380</amount>
+    <currancy>BYN</currancy>
+    <remains>15000</remains>
+    <interestAccruals>10000</interestAccruals>
+    <percent>17%</percent>
+  </deposit>
+  <deposit number="6">
+    <company>Microsoft</company>
+    <amount>78040</amount>
+    <currancy>BYN</currancy>
+    <remains>15000</remains>
+    <interestAccruals>10000</interestAccruals>
+    <percent>17%</percent>
+  </deposit>
+  <deposit number="7">
+    <company>Apple</company>
+    <amount>7673800</amount>
+    <currancy>BYN</currancy>
+    <remains>1500330</remains>
+    <interestAccruals>10000</interestAccruals>
+    <percent>17%</percent>
+  </deposit>
+  <deposit number="8">
+    <company>Samsung</company>
+    <amount>178400</amount>
+    <currancy>BYN</currancy>
+    <remains>150300</remains>
+    <interestAccruals>10000</interestAccruals>
+    <percent>17%</percent>
+  </deposit>
+  <deposit number="9">
+    <company>LG</company>
+    <amount>1785300</amount>
+    <currancy>BYN</currancy>
+    <remains>1500230</remains>
+    <interestAccruals>10000</interestAccruals>
+    <percent>17%</percent>
+  </deposit>
+</deposits>
